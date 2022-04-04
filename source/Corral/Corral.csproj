@@ -3,6 +3,7 @@
   <PropertyGroup>
     <PackageId>Corral</PackageId>
     <Description>A solver for the reachability modulo theories problem.</Description>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
   <PropertyGroup>

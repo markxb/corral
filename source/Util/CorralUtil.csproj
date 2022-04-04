@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <AssemblyName>CorralUtil</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
 </Project>
